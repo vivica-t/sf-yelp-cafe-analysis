@@ -1,0 +1,6 @@
+name,rating,review_count,categories,transactions,price,price_tier,address,city,state,zip_code
+Progeny Coffee,4.9,30,"coffee, desserts",none,unknown,unknown,1395 22nd St,San Francisco,CA,94107
+Sweet Glory,4.8,169,"desserts, cakeshop, coffee","pickup, delivery",unknown,unknown,1336 9th Ave,San Francisco,CA,94122
+Milkbomb Ice Cream,4.7,878,"icecream, desserts, donuts",delivery,$$,moderate,1717 17th St,San Francisco,CA,94103
+Kopiku Coffee,4.7,351,coffee,none,$$,moderate,1443 Lombard St,San Francisco,CA,94123
+Heytea,4.7,80,bubbletea,none,$$,moderate,165 4th St,San Francisco,CA,94103

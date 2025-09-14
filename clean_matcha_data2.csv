@@ -1,0 +1,50 @@
+name,review_count,categories,rating,transactions,price,address,city,state,zip_code,price_tier,price_tier_num
+Matcha Cafe Maiko,1568,"coffee, icecream, bubbletea",4.5,delivery,$$,1581 Webster St,San Francisco,CA,94115,moderate,2
+Maruwu Seicha,514,"coffee, desserts, juicebars",4.3,none,$$,1737 Post St,San Francisco,CA,94115,moderate,2
+Kiss Of Matcha,473,"coffee, icecream, desserts",4.3,"pickup, delivery",$$,750 Clement St,San Francisco,CA,94118,moderate,2
+Tadaima,352,"japanese, cafes, coffee",4.1,"pickup, delivery",$$,3515 20th St,San Francisco,CA,94110,moderate,2
+Stonemill Matcha,1559,"cafes, coffee, japanese",4.2,"pickup, delivery",$$,561 Valencia St,San Francisco,CA,94110,moderate,2
+Kiss Of Matcha,140,"cafes, coffee, desserts",4.3,"pickup, delivery",$,612 Broadway,San Francisco,CA,94133,budget,1
+Kopiku Coffee,351,coffee,4.7,none,$$,1443 Lombard St,San Francisco,CA,94123,moderate,2
+Sweet Glory,169,"desserts, cakeshop, coffee",4.8,"pickup, delivery",unknown,1336 9th Ave,San Francisco,CA,94122,unknown,0
+U :Dessert Story,3003,"desserts, coffee, shavedice",4.4,"delivery, pickup, restaurant_reservation",$$,3489 16th St,San Francisco,CA,94114,moderate,2
+Sakura,172,"giftshops, intlgrocery, japanese",4.6,none,$,936 Irving St,San Francisco,CA,94122,budget,1
+Cafe Okawari,483,"japanese, cafes, sandwiches",4.5,"pickup, delivery",$$,236 Townsend St,San Francisco,CA,94107,moderate,2
+Komeya No Bento,464,"japanese, coffee",4.6,none,$$,3137 Laguna St,San Francisco,CA,94123,moderate,2
+Heytea,80,bubbletea,4.7,none,$$,165 4th St,San Francisco,CA,94103,moderate,2
+Uji Time Dessert,1026,"desserts, icecream, coffee",4.0,"pickup, delivery",$$,22 Peace Plz,San Francisco,CA,94115,moderate,2
+Dento Piano Cafe and Bar,92,"coffee, bars, desserts",4.6,none,unknown,1339 Folsom St,San Francisco,CA,94103,unknown,0
+Progeny Coffee,30,"coffee, desserts",4.9,none,unknown,1395 22nd St,San Francisco,CA,94107,unknown,0
+Matcha Cafe Maiko,357,"desserts, icecream, bubbletea",4.5,delivery,$$,3251 20th Ave,San Francisco,CA,94132,moderate,2
+Asha Tea House,767,"coffee, tea, bubbletea",4.0,delivery,$$,17 Kearny St,San Francisco,CA,94108,moderate,2
+Paper Son Coffee,40,coffee,4.5,none,unknown,303 2nd St N102,San Francisco,CA,94107,unknown,0
+Black Bird Bookstore and Cafe,175,"bookstores, coffee",4.5,none,$$,4541 Irving St,San Francisco,CA,94122,moderate,2
+Urban Ritual,1107,"bubbletea, cafes",4.4,"pickup, delivery",$,488 Fell St,San Francisco,CA,94102,budget,1
+Bread N’ Chu,414,"sandwiches, coffee",3.9,"pickup, delivery",$$,1900 Clement St,San Francisco,CA,94121,moderate,2
+Tiny Croissanterie,12,"bakeries, desserts",4.6,none,unknown,4100 3rd St,San Francisco,CA,94124,unknown,0
+Saint Frank Coffee,91,coffee,4.3,none,unknown,120 Folsom St,San Francisco,CA,94105,unknown,0
+Sightglass Coffee,198,coffee,3.9,delivery,$$,301 Divisadero St,San Francisco,CA,94117,moderate,2
+Haraz Coffee,224,coffee,4.1,"pickup, delivery",$$,1452 Franklin St,San Francisco,CA,94109,moderate,2
+CoffeeShop,112,coffee,4.6,none,unknown,2761 21st St,San Francisco,CA,94110,unknown,0
+QualiTea,328,bubbletea,4.3,"pickup, delivery",$$,4023 18th St,San Francisco,CA,94114,moderate,2
+Matcha Cafe Maiko,293,"coffee, icecream, shavedice",4.5,delivery,$,756 Grant Ave,San Francisco,CA,94108,budget,1
+Andytown Coffee Roasters,1110,coffeeroasteries,4.5,delivery,$$,3655 Lawton St,San Francisco,CA,94122,moderate,2
+Andytown Coffee Roasters,236,coffeeroasteries,4.4,delivery,$$,181 Fremont St,San Francisco,CA,94105,moderate,2
+Tea & Others,283,bubbletea,4.2,"pickup, delivery",$$,250 Divisadero St,San Francisco,CA,94117,moderate,2
+Wooden Coffeehouse,144,coffee,4.1,delivery,$$,862 Cole St,San Francisco,CA,94117,moderate,2
+K Minamoto,422,"japanese, desserts, chocolate",4.4,"pickup, delivery",$$$,648 Market St,San Francisco,CA,94104,expensive,3
+Kissako Tea,461,"coffee, desserts, japanese",4.1,pickup,$,1581 Webster St,San Francisco,CA,94115,budget,1
+Jina Bakes,684,"bakeries, korean, coffee",4.4,none,unknown,1581 Webster St,San Francisco,CA,94115,unknown,0
+Diamond Coffee N Pastry,251,"coffee, bakeries",4.5,"pickup, delivery",$$,1014 Clement St,San Francisco,CA,94118,moderate,2
+Souvenir Coffee,70,coffee,4.5,none,unknown,262 Divisadero St,San Francisco,CA,94117,unknown,0
+Milkbomb Ice Cream,878,"icecream, desserts, donuts",4.7,delivery,$$,1717 17th St,San Francisco,CA,94103,moderate,2
+Cafe Réveille,281,"coffee, breakfast_brunch, salad",3.7,pickup,$$,201 Steiner St,San Francisco,CA,94117,moderate,2
+Breadbelly,707,"bakeries, cafes, breakfast_brunch",4.4,delivery,$$,1408 Clement St,San Francisco,CA,94118,moderate,2
+Flywheel Coffee Roasters,669,"coffee, coffeeroasteries",3.9,delivery,$$,672 Stanyan St,San Francisco,CA,94117,moderate,2
+Saint Frank Coffee,995,"coffee, breakfast_brunch",4.3,delivery,$,2340 Polk St,San Francisco,CA,94109,budget,1
+Oishii Matcha,67,coffee,4.3,none,unknown,2299 Market St,San Francisco,CA,94114,unknown,0
+Rise & Grind Coffee and Tea,155,coffee,4.3,"pickup, delivery",$$,2598 Folsom St,San Francisco,CA,94110,moderate,2
+Jinshan Cafe,24,"cafes, coffee",4.1,none,unknown,781 Sacramento St,San Francisco,CA,94108,unknown,0
+Pixlcat Coffee,170,"coffee, breakfast_brunch, cafes",3.7,"pickup, delivery",$,519 Clement St,San Francisco,CA,94118,budget,1
+JOE & THE JUICE,361,"coffee, juicebars, cafes",3.2,"pickup, delivery",$$,235 Montgomery St,San Francisco,CA,94104,moderate,2
+The Coffee Berry SF,70,coffee,4.7,none,$$,1410 Lombard St,San Francisco,CA,94123,moderate,2

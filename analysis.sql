@@ -1,0 +1,38 @@
+-- top 5 of 50 by rating
+-- create table top_five as (
+-- select 
+--   name, 
+--   rating, 
+--   review_count,
+--   categories,
+--   transactions,
+--   price,
+--   price_tier, 
+--   address,
+--   city, 
+--   state,
+--   zip_code
+-- from matcha_businesses
+-- order by 
+--   rating desc,
+--   review_count desc
+-- LIMIT 5
+-- );
+-- select * from top_five;
+
+/* creating table for top 5/50 */
+-- create table top50_ranked as
+-- with fact as (
+--   select *
+--   from matcha_businesses
+--   where rating is not null
+--   order by rating desc, review_count desc
+--   LIMIT 50
+-- )
+-- select
+--   a.*,
+--   rank() over (order by rating desc, review_count desc) as rnk,
+--   (rank() over (order by rating desc, review_count desc) <= 5) as is_top5
+-- from fact a;
+
+-- select * from top50_ranked;
