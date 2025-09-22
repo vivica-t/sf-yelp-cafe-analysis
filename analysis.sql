@@ -143,13 +143,6 @@
 -- select * from business_rating_vs_district_avg_table;
 
 
-/* ============================================================
-   SECTION I — Box & Whisker stats by District (min/q1/median/q3/max/avg)
-   ============================================================ */
-
--- Creates a fresh table with five-number summary + average per district
--- Source: matcha_businesses + zip_code_to_district_dim (via ZIP join)
--- Rounds to 1 decimal to match your other outputs
 
 -- CREATE TABLE district_rating_five_number_summary_table AS (
 --   WITH fact AS (
